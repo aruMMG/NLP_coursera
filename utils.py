@@ -1,8 +1,8 @@
-from nltk import FreqDist
-import nltk
+# from nltk import FreqDist
+# import nltk
 import numpy as np
-nltk.download('stopwords')
-nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('punkt')
 sentence = ["Absolutely wonderful - silky and sexy and comfortable"]
 # words = nltk.tokenize.word_tokenize(sentence)
 # f = FreqDist(words)
